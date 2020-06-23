@@ -1,3 +1,3 @@
 ## Special point position recognition based on OpencV-Python
-pip install *
+pip install *:
 node app.js
